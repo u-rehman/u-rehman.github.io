@@ -26,6 +26,11 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+I am a PhD Candidate in Economics at CY Cergy Paris Université, specializing in Macroeconomics, International Finance, and Monetary Economics.
+
+My work bridges the gap between rigorous academic theory and applied quantitative modeling to understand global market dynamics. I leverage advanced data analysis and econometric techniques to extract actionable insights from complex macroeconomic datasets.
+
+Whether I am developing structural models for monetary policy or building data-driven strategies for macro-research desks, I am passionate about applying cutting-edge economic research to solve real-world financial challenges.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
